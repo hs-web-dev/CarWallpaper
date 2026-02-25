@@ -146,7 +146,7 @@ header input {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 25px;
-    padding: 40px 40px 60px 40px; /* 🔼 galerie encore plus haute */
+    padding: 80px 40px 60px 40px; /* 🔼 galerie encore plus haute */
 }
 
 .car-card {
